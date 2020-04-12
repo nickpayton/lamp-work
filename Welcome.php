@@ -1,7 +1,7 @@
 <?php
     class Welcome {
         function greet(){
-            return "";
+            return "Welcome to DevOps on AwS";
         }
     }
 ?>
